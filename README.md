@@ -13,5 +13,4 @@ Este dashboard permite visualizar, segmentar y descargar información de persona
 ## Desarrollado por
 
 **Pablo Andrés Silva Catepón**  
-Maestrando en Análisis y Gestión de Datos Financieros en Organizaciones  
-Coordinador de Plataforma de la Libertad
+Plataforma por la Libertad
